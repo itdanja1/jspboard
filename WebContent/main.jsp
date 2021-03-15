@@ -9,11 +9,12 @@
 <meta name="viewport" content="width=device-width" initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/custom.css">
-<title>JSP 게시판 웹 게시판</title>
+<title> 깃허브 업데이트</title>
 </head>
 <body>
 
-	<%
+	<% 
+		
 		String userID = null;
 		if( session.getAttribute("userID") !=null){
 			
