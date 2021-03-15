@@ -9,9 +9,10 @@
 <meta name="viewport" content="width=device-width" initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/custom.css">
-<title> 깃허브 업데이트</title>
+<title> 깃허브 업데이트 후 입니다</title>
 </head>
 <body>
+
 
 	<% 
 		
